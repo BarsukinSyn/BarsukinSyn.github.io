@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  color: #49396A;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  line-height: 1.7;
+}
+
+main {
+  max-width: 980px;
+  padding: 10px 20px 40px;
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #221341;
+  line-height: 1.4;
+  font-weight: 700;
+}
+
+h1, h2 {
+  margin: 25px 0 15px;
+  font-size: 2.125rem;
+}
+
+h3 {
+  margin: 20px 0 10px;
+  font-size: 1.65rem;
+}
+
+h4 {
+  margin: 20px 0 10px;
+  font-size: 1.35rem;
+}
+
+hr {
+  height: 1px;
+  margin: 35px 0 25px;
+  background-color: #CED4DA;
+  border: none;
+}
+
+ul {
+  list-style-type: disc;
+  line-height: 2;
+}
+
+ul li:not(:last-child) {
+  margin-bottom: 10px;
+}
